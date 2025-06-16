@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Healthcaredatasolution",
+    "displayName": "healthcare1",
+    "description": "Healthcare data solutions"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e520d42c-2e88-b514-44a6-3933f660fe62"
+  }
+}
